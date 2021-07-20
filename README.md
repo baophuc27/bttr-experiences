@@ -9,7 +9,7 @@
 In the original paper, the model in trained on four NVIDIA 1080Ti GPUs with 11 × 4 GB memory. After trained 300 epochs and ensemble inference, the model achieve the accuracy of **53.96**, **52,31**, **52.96** % on the CROHME 2014/2016/2019 respectively.
 
 ### My experiences
-Intentionally, I wanted to trained for 300 epoch. But after realizing the model was overfit, I stoped at **240<sup>th</sup>** epoch.
+Intentionally, I wanted to train for 300 epoch. But after realizing the model was overfit, I stopped at **240<sup>th</sup>** epoch.
 
 I got **48.78**, **49.07**% of accuracy on the CROHME 2016/2019.
 
